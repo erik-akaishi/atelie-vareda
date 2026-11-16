@@ -1,0 +1,34 @@
+# Ateliê Vareda
+
+> Ateliê de arquitetura residencial autoral em Uberlândia (MG): casas desenhadas a partir do terreno, da luz e do jeito de morar de cada família.
+
+## Páginas
+- [Início](https://erik-akaishi.github.io/atelie-vareda/): apresentação, projetos, serviços, processo e contato
+- [Projetos](https://erik-akaishi.github.io/atelie-vareda/#projetos): casos selecionados
+- [Soluções](https://erik-akaishi.github.io/atelie-vareda/#solucoes): serviços oferecidos
+- [Contato](https://erik-akaishi.github.io/atelie-vareda/#contato): conversa pelo WhatsApp
+
+## Serviços
+- Projeto arquitetônico: Estudo, anteprojeto e projeto executivo pensados para o seu terreno.
+- Interiores: Mobiliário, iluminação e materiais que dão identidade a cada ambiente.
+- Paisagismo integrado: Jardim e casa desenhados juntos, com espécies nativas e sombra.
+- Aprovação e compatibilização: Prefeitura, condomínio e projetos complementares alinhados.
+- Acompanhamento de obra: Visitas técnicas e decisões de canteiro para a obra sair como o projeto.
+- Entrega e pós-obra: Vistoria final e ajustes para você morar sem pendências.
+
+## Projetos em destaque
+- Casa Peroba (Uberlândia · 420 m²): Concreto aparente, madeira e uma varanda que vira sala de estar do jardim.
+- Casa Jacarandá (Uberlândia · 310 m²): Térrea em L em volta de um pátio, com piscina estreita e pergolado.
+- Casa Sibipiruna (Uberlândia · 520 m²): Sala em pé-direito duplo aberta para o jardim, com forro de madeira.
+
+## Como trabalhamos
+- Escuta e visita (1 a 2 semanas): Conversamos sobre a rotina da família e visitamos o terreno.
+- Estudo preliminar (3 a 4 semanas): Propomos implantação, volumes e luz, com maquete e imagens.
+- Projeto executivo (6 a 8 semanas): Detalhamos tudo o que a obra precisa para ser construída.
+- Obra e entrega (Conforme a obra): Acompanhamos a construção até a chave na mão.
+
+## Contato
+- Atendimento em Uberlândia (MG), com resposta pelo WhatsApp em até 1 dia útil
+
+## Créditos
+- Site construído por Akaishi Design Studio: https://akaishidesign.com.br
